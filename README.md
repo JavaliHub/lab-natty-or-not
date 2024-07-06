@@ -17,9 +17,9 @@ Inspirada na hype _"Natty or Not"_ do fisiculturismo, este desafio da DIO nos co
     1. Disponível neste repositório, e tambem no youtube e linkedin pessoal;
     2. No arquivo README voce poderá ler com detalhes como os projetos foram feitos;
     3. O link no repositório desta plataforma GitHub possibilita visualizar os trabalhos elaborados,como também, fortalece o meu portfólio de projetos nos perfis do GitHub e da DIO 🚀!!!
-3. **Efeito de Rede**: Compartilhei meus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**.
+3. **Efeito de Rede**: Compartilhei meus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot** **#DIO** **#falvoj**.
 
-Marcados nos links: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+      Links: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
 ```markdown
 
@@ -53,16 +53,16 @@ repositorio!!!
 
 ## 💭 Reflexão
 Estes desafios de criar algo 'natty' com as IAs e IAs Generativas serviram para entender como
-estas tecnologias vieram para permitir que todos tenhamos conhecimento de como aprender ou fazer várias coisas interessantes para nossas vidas!!!!🤓 🎯 
+estas tecnologias vieram para permitir que todos tenhamos conhecimento de como aprender ou fazer várias coisas interessantes para nossas vidas!!!!🤓 
 
 ```
 
-### Exemplos e Insigths
+### 🎯 Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
+## 🌌 Links Interessantes
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
