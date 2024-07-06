@@ -3,15 +3,12 @@
 ## 📒 Descrição
 ℹ️ NOTE: Este repositório foi desenvolvido para o curso Fundamentos de IA para Devs do Santander Bootcamp 2024 em parceria com a [DIO](https://dio.me)🚀
 
-[LINK PARA O VIDEO]
-<a href="https://github.com/JavaliHub/lab-natty-or-not/blob/main/exemplos/VIDEO.md"> 📕Clique aqui </a>
-
 Projeto com o objetivo de gerar um video utilizando ferramentas de IA GENERATIVAS através de prompts mais elaborados.
 
 ## 🤖 Tecnologias Utilizadas
 
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[D-ID](https://https://www.d-id.com/)** para elaboração do video;
+- IA Generativa **[D-ID](https://www.d-id.com)** para elaboração do video;
 
 
 ## 🧐 Processo de Criação
